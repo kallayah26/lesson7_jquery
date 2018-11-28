@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 28th,2018
 
 ### Student Name:  
-(First and Last Name)
+Kallayah Henderson 
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment I learned how to use jQuery in order to easily modify the animtions on a web page. 
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kallayah26.github.io/lesson7_jquery/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The use of jQuery allows you to apply animations to a web site making it more dynamic.
+2. The .animate method can be adjusted for slow or fast display speeds using custom animations.
+3. When you use the google chrome JavaScript console you can see the different elements of your DOM tree and expand each.
 
